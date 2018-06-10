@@ -1,0 +1,5 @@
+name: MineSweeper
+version: ${project.version}
+main: com.duckelekuuk.minesweeper.MineSweeper
+authors: [Duckelekuuk]
+website: https://duckelekuuk.com
